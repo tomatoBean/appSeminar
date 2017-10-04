@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplicationMenuDefinition</string>
+    <string name="title_home">测试1</string>
+    <string name="title_selection">测试2</string>
+    <string name="title_dating">测试3</string>
+    <string name="title_self">测试4</string>
+</resources>
