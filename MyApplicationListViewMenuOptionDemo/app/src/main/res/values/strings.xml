@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplicationListViewMenuOptionDemo</string>
+    <string name="item_location">Location</string>
+    <string name="item_help">Help</string>
+    <string name="item_share">Share</string>
+    <string name="item_edit">Edit</string>
+    <string name="item_agenda">Agenda</string>
+    <string name="title_activity_help">TitleHelp</string>
+</resources>
